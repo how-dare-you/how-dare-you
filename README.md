@@ -1,10 +1,20 @@
 <h1 align="center">你好，我是 HardyDragon</h1>
 
-<h3 align="center">
+
+
+
+<h5 align="center">
+
+> 之前 github 号被封了，这个号用得少
 
 该页面由 [profile生成器](https://rahuldkjain.github.io/gh-profile-readme-generator/) 提供
 
-</h3>
+</h5>
+
+
+
+
+
 
 - 🌱 我正在学习 **Ai 深度学习 人工智能 自动化工具等应用**
 
