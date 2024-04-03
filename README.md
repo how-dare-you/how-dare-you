@@ -9,6 +9,8 @@
 
 该页面由 [profile生成器](https://rahuldkjain.github.io/gh-profile-readme-generator/) 提供
 
+[我的 hexo 博客](how-dare-you.github.io/hc_blog/)
+
 </h5>
 
 
